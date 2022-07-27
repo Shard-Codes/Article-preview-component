@@ -29,8 +29,8 @@ Desktop view             |  Mobile view
 
 ### Links
 
-- Solution URL: [Frontend mentor solution link](https://your-solution-url.com)
-- Live Site URL: [Deployed site link](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/solutions/article-preview-component-made-with-html-css-and-javascript-L8kmSlCLSk)
+- Live Site URL: [Deployed site link](https://article-preview-new.netlify.app/)
 
 ## My process
 
